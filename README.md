@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/3mr5aledpy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/3mr5aledpy/" height="30" width="40" /></a>
 <a href="https://fb.com/3mr5aled.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3mr5aled.py" height="30" width="40" /></a>
-<a href="https://discord.gg/amrkhaled.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amrkhaled12" height="30" width="40" /></a>
+<a href="https://discord.gg/amrabdelkariem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amrkhaled12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
