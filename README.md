@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Hello World! I'm Amr Khaled</h1>
-<h3 align="center">🔒 Cybersecurity Enthusiast | 🐧 Linux Explorer | 💻 CS Student</h3>
+<h3 align="center">🔒 Cybersecurity Enthusiast | 🐧 Linux Explorer | 💻 IT Student</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&center=true&vCenter=true&width=435&lines=Passionate+about+pentesting;Linux+system+administrator;Python+developer;Always+learning+new+tech" alt="Typing SVG" /></a>
