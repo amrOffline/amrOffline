@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🌱 Currently mastering **Linux Administration & Security**
 - 🔭 Exploring **Penetration Testing & Ethical Hacking**
-- 🎓 Computer Science student with hands-on security experience
+- 🎓 IT student with hands-on security experience
 - ⚡ Fun fact: I can probably break into your system (with permission!)
 - 🖥️ Building **cybersecurity tools** and **automation scripts**
 
