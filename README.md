@@ -47,11 +47,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mr5aled&show_icons=true&theme=dark" alt="3mr5aled's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mr5aled&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=3mr5aled&label=Profile%20views&color=0e75b6&style=flat" alt="3mr5aled" />
