@@ -1,79 +1,92 @@
-<h1 align="center">👨‍💻 Hello World! I'm Amr Khaled</h1>
-<h3 align="center">🔒 Cybersecurity Enthusiast | 🐧 Linux Explorer | 💻 IT Student</h3>
+<!-- README.md
+  Instructions: replace the PLACEHOLDER values below:
+  - YOUR_NAME, YOUR_SHORT_DESC
+  - YOUR_GITHUB_USERNAME (for stats)
+  - YOUR_LINKEDIN, YOUR_FACEBOOK, YOUR_HTB, YOUR_EMAIL, YOUR_NOTION
+  - If you have a banner image, upload it to the repo and set BANNER_FILENAME
+-->
 
+<div align="center">
+
+<!-- Banner: upload your banner image to the repo and replace BANNER_FILENAME -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/BANNER_FILENAME" alt="banner" width="700"/>
+</a>
+
+<h1 align="center">👋 Hi, I'm YOUR_NAME</h1>
+<p align="center"><em>YOUR_SHORT_DESC</em></p>
+
+<!-- Typing effect (change the text after 'lines=') -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&center=true&vCenter=true&width=435&lines=Passionate+about+pentesting;Linux+system+administrator;Python+developer;Always+learning+new+tech" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Shojumaru&pause=1000&color=fe428e&center=true&vCenter=true&width=550&lines=Penetration+Tester;Cyber+Security+Enthusiast" alt="typing"/>
+</p>
+
+<!-- Social icons: replace the links with your actual profiles -->
+<p align="center">
+  <a href="YOUR_FACEBOOK" title="Facebook">
+    <img width="36" src="https://user-images.githubusercontent.com/59813937/234152031-754538e3-3e99-4439-bf9c-e537e53bfd62.png" alt="facebook"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN" title="LinkedIn">
+    <img width="36" src="https://user-images.githubusercontent.com/59813937/234152096-a073220d-b5ab-43cb-8c79-29f8728cdd81.png" alt="linkedin"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_HTB" title="HackTheBox">
+    <img width="36" src="https://raw.githubusercontent.com/0xDigimon/0xdigimon/main/download%20(1).png" alt="htb"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL" title="Email">
+    <img width="36" src="https://user-images.githubusercontent.com/59813937/234151856-09f243a3-d6e4-4072-a8b6-f34cb135e00a.png" alt="email"/>
+  </a>
+  &nbsp;
+  <!-- Notion icon (SVG). Replace YOUR_NOTION with your Notion page URL -->
+  <a href="YOUR_NOTION" title="Notion">
+    <img width="36" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently mastering **Linux Administration & Security**
-- 🔭 Exploring **Penetration Testing & Ethical Hacking**
-- 🎓 IT student with hands-on security experience
-- ⚡ Fun fact: I can probably break into your system (with permission!)
-- 🖥️ Building **cybersecurity tools** and **automation scripts**
+</div>
+
+<!-- Profile / Short bio -->
+<div align="center">
+
+**Penetration Tester | CRTM**  
+Studied: CRTP · CRTE · CRTM · OSCP · ECPPT · EJPT · EWPT
+
+</div>
 
 ---
 
-### 📬 Get In Touch
-- 📧 Email: [amrabdelkariem2@gmail.com](mailto:amrabdelkariem2@gmail.com)
-- 💼 LinkedIn: [3mr5aledpy](https://linkedin.com/in/3mr5aledpy/)
-- 😎 Facebook: [3mr5aled.py](https://fb.com/3mr5aled.py)
-- 🎮 Discord: [amrabdelkariem](https://discord.gg/amrabdelkariem)
+<!-- GitHub stats: replace YOUR_GITHUB_USERNAME -->
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Programming & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-</p>
-
-#### 🌐 Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
-
-#### 🐧 Linux & Tools
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
-</p>
-
-#### 🔐 Security Tools
-<p>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-</p>
+## 🧰 Skills
+- Web App Penetration Testing (OWASP)
+- Network & System Exploitation (Windows / Linux)
+- Code review & security auditing
+- Tools: Burp Suite, Nmap, Metasploit, Wireshark, etc.
 
 ---
 
-### 🐧 Linux Skills
-```bash
-$ whoami
-amrkhaled
+## 📫 Contact
+- Notion / Docs: [Your Notion](/) (replace the link above)
+- Email: `YOUR_EMAIL`
 
-$ uname -a
-Linux enthusiast | Security-focused | Bash scripting
+---
 
-$ skills
-├── System Administration
-├── Network Configuration
-├── Shell Scripting (Bash)
-├── Package Management (apt, yum)
-├── User & Permission Management
-├── Security Hardening
-└── Server Maintenance
+> ✅ Tip: after pasting, edit the README and replace all `YOUR_...` placeholders with your actual links and username.  
+> Upload a banner image named `BANNER_FILENAME` (or remove the banner block if you don't want one).
 
-$ certifications
-Coming soon... (Currently pursuing Linux+ and LPIC-1)
+---
+
+<img height="80" alt="thanks" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
